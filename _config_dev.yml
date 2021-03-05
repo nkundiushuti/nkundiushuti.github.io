@@ -1,0 +1,76 @@
+#
+# This config-file is only needed for development. Instead of changing the url
+# everytime you work locally on the project, you start both config-files, overwriting
+# the first one with the development variables needed.
+#
+# Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
+
+url: 		'http://localhost:4000'
+baseurl: 	#
+urlimg: 	'http://localhost:4000/images/'
+
+# See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
+gist:
+  noscript: false
+
+sass:
+  # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: :expanded
+  line_numbers: true
+  # trace_selectors: true
+  # debug_info: true
+  # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
+  sourcemap: true
+
+# Disable when not in production
+google_analytics_tracking_id: false
+
+scholar:
+  style: apa
+  sort_by: year
+
+# flickr:
+#   screen_name: nkundi
+#   api_key: 781d0f0dc99d8c1c7b58366331eb3741
+#   api_secret: cbf00828fd411bd3
+
+gems:
+    - jekyll-asciidoc
+    - jekyll-gist
+    - jekyll-paginate
+    #- indii-jekyll-flickr
+
+# Logo size is 600x80 pixels
+logo: "logo.png"
+
+collections:
+  research:
+    output: true
+
+
+#       ____              _             __  _
+#      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
+#     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
+#    / ____/ /_/ / /_/ / / / / / /_/ / /_/ / /_/ / / / /
+#   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
+#               /____/
+#
+paginate: 5                      # Paginates all X entries
+paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown: kramdown
+permalink: /:categories/:title/
+highlight: rouge
+excerpt_separator: "<!--more-->"
+include: ['.htaccess']
+# Exclude these files from your production _site
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+
