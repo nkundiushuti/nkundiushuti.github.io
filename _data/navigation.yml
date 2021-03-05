@@ -14,7 +14,7 @@
   side: left
 
 - title: "Research"
-  url: "/research"
+  #url: "/research"
   side: left
   dropdown:
   - title: "Publications"
