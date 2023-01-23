@@ -31,7 +31,7 @@ beatStation was designed as a game with a purpose application in which users can
 
 ### Live drum transcription
 <div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/RB-1nWavrmg" frameborder="0" allowfullscreen></iframe>
+        <iframe width="1280" height="720" src="https://www.youtube.com/embed/RB-1nWavrmg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 This is audio drum transcription algorithm in pure data, MaxMSP and Max4Live which can transcribe kick, snare, and hi-hat from live drum performances. The software takes live audio or files as input and triggers events for each drum type as output.

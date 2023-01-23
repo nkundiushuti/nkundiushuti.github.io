@@ -37,7 +37,7 @@ Most of this work follows the research reproducibility principles, inasmuch the 
 
 A video recording of the PhD defense has been uploaded on youtube
 <div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/FDrFTTVOtr0" frameborder="0" allowfullscreen></iframe>
+        <iframe width="1280" height="720" src="https://www.youtube.com/embed/FDrFTTVOtr0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Datasets

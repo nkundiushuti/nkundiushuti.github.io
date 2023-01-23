@@ -10,7 +10,7 @@ header:
 ---
 ...and learn something new everyday.
 
-I currently work as Senior Machine Learning Engineer at *[Scaled Robotics][2]*.
+I currently work as Senior AI Researcher *[Earth Species Project][2]*.
 
 
 ## Links
@@ -20,7 +20,7 @@ I currently work as Senior Machine Learning Engineer at *[Scaled Robotics][2]*.
 
 
  [1]: https://www.linkedin.com/in/marius-miron-9473233/
- [2]: http://scaledrobotics.com
+ [2]: http://earthspeciesproject.com
  [3]: {{ site.url }}/blog/
  [4]: #
  [5]: #

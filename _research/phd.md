@@ -25,7 +25,7 @@ I was supervised by [Jordi Janer][5] and [Emilia Gomez][6].
 Below you can watch a demo from the official [app][2] which uses the separated tracks.
 
 <div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/7kxS8nblDYk" frameborder="0" allowfullscreen></iframe>
+        <iframe width="1280" height="720" src="https://www.youtube.com/embed/7kxS8nblDYk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Although I mainly worked on orchestral music, in this [github repository][7] I have code for pop music source separation using deep learning.
