@@ -54,7 +54,7 @@ Code and detailed instructions on how to reproduce experiments in part four (sou
 
 
  [1]: https://mariusmiron.com/research/phd/
- [2]: https://mariusmiron.com/phd_thesis/MariusMiron_thesis.pdf
+ [2]: https://zenodo.org/record/1163675#.Y9JcYy0w0Wo
  [3]: https://mtg.upf.edu/download/datasets/phenicx-anechoic
  [4]: https://repovizz.upf.edu/phenicx/
  [5]: https://zenodo.org/record/840025
