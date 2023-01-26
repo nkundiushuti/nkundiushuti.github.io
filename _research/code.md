@@ -46,10 +46,10 @@ This [dataset][7] includes audio and annotations useful for tasks as score-infor
  [1]: https://github.com/nkundiushuti
  [2]: https://github.com/MTG
  [3]: https://github.com/SMC-INESC
- [4]: http://mariusmiron.com/research/publications/
+ [4]: https://mariusmiron.com/research/publications/
  [5]: https://staff.aist.go.jp/m.goto/RWC-MDB/
  [6]: https://github.com/SMC-INESC/beatStation
- [7]: http://mtg.upf.edu/download/datasets/phenicx-anechoic
+ [7]: https://mtg.upf.edu/download/datasets/phenicx-anechoic
  [8]: #
  [9]: #
  [10]: #

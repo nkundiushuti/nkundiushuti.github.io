@@ -37,23 +37,23 @@ The proceedings can be found [online][7].
 I really liked the keynote from Anssi Klapuri. A few years ago he moved from academia to Yousician, a company that develops apps for music learning. He presented the app and the architecture of their audio engine (they use Unity for graphics but for audio they use their own audio engine). Interestingly, most of the audio part is minimally processed and the audio is rooted as soon as possible to the output. The cross-cancelling seemed quite robust. Also, I really liked the testing techniques: they record the impulse responses of different phones and instruments so they can use this data afterwards for testing.
 
 
- [1]: http://smc2017.aalto.fi
+ [1]: https://smc2017.aalto.fi
  [2]: https://github.com/MTG/DeepConvSep
  [3]: https://drive.google.com/file/d/0Bxgc1jYXBwD6cngwSWRLU2FEbVU/view?usp=sharing
  [4]: https://www.upf.edu/web/mtg/news/-/asset_publisher/WM181VyAQipW/content/id/16769628/maximized#.WV99oPy6yRs
- [5]: http://mtg.upf.edu/node/3765
+ [5]: https://mtg.upf.edu/node/3765
  [6]: https://www.hindawi.com/journals/jece/2016/8363507/
- [7]: http://smc2017.aalto.fi/proceedings.html
- [8]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p77.pdf
- [9]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p110.pdf
- [10]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p104.pdf
- [11]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p208.pdf
- [12]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p220.pdf
- [13]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p306.pdf
- [14]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p373.pdf
- [15]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p380.pdf
- [16]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p434.pdf
- [17]: http://smc2017.aalto.fi/media/materials/proceedings/SMC17_p443.pdf
+ [7]: https://smc2017.aalto.fi/proceedings.html
+ [8]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p77.pdf
+ [9]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p110.pdf
+ [10]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p104.pdf
+ [11]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p208.pdf
+ [12]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p220.pdf
+ [13]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p306.pdf
+ [14]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p373.pdf
+ [15]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p380.pdf
+ [16]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p434.pdf
+ [17]: https://smc2017.aalto.fi/media/materials/proceedings/SMC17_p443.pdf
 
 
 

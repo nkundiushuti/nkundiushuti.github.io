@@ -25,7 +25,7 @@ Finally, I am not really interested in [bots][3] but the process of responding t
  [3]: https://github.com/xorduna/celerybot/blob/master/slides/celery_powered_bots.pdf
  [4]: https://plot.ly/
  [5]: https://travis-ci.org/
- [6]: http://www.celeryproject.org/
+ [6]: https://www.celeryproject.org/
  [7]: #
  [8]: #
  [9]: #

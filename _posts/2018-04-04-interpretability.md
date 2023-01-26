@@ -222,22 +222,22 @@ Baumeister, R. F., & Newman, L. S. (1994). Self-Regulation of Cognitive Inferenc
 Interpretability in machine learning advocates for human-centric explanations of black-box models. In simple tasks, the explanation is straightforward, for instance emphasizing the pixels corresponding to a detected object in an image. For other tasks which require slow judgements, a personalized explanation might enforce one’s confirmation biases, e.g. in topic detection a personalized interpretation underlines the words might point to one’s vocabulary. Therefore, in certain slow judgement tasks human-centric explanations as evaluation baselines for interpretability can be biased towards certain individuals.
 
 
- [1]: http://arxiv.org/abs/1702.08608
- [2]: http://arxiv.org/abs/1606.03490
+ [1]: https://arxiv.org/abs/1702.08608
+ [2]: https://arxiv.org/abs/1606.03490
  [3]: https://arxiv.org/abs/1610.02413
  [4]: https://arxiv.org/abs/0907.3754
  [5]: https://github.com/marcotcr/lime
  [6]: https://doi.org/10.1145/1235
  [7]: https://github.com/ramprs/grad-cam
  [8]: https://doi.org/10.1109/ICCV.2017.74
- [9]: http://www.heatmapping.org/
+ [9]: https://www.heatmapping.org/
  [10]: https://doi.org/10.1016/j.dsp.2017.10.011
  [11]: https://github.com/kundajelab/deeplift
- [12]: http://arxiv.org/abs/1704.02685
+ [12]: https://arxiv.org/abs/1704.02685
  [13]: https://github.com/CSAILVision/NetDissect
  [14]: https://doi.org/10.1109/CVPR.2017.354
  [15]: https://github.com/kohpangwei/influence-release
- [16]: http://arxiv.org/abs/1703.04730
+ [16]: https://arxiv.org/abs/1703.04730
  [17]: https://github.com/dtak/rrr
  [18]: https://doi.org/10.24963/ijcai.2017/371
  [19]: https://github.com/marcoancona/DeepExplain
@@ -246,8 +246,8 @@ Interpretability in machine learning advocates for human-centric explanations of
  [22]: https://doi.org/10.1145/2783258.2788613
  [23]: https://spectrumnews.org/opinion/viewpoint/quest-autism-biomarkers-faces-steep-statistical-challenges/
  [24]: https://doi.org/10.1001/jama.2016.17216
- [25]: http://arxiv.org/abs/1708.09254
- [26]: http://arxiv.org/abs/1711.09313
+ [25]: https://arxiv.org/abs/1708.09254
+ [26]: https://arxiv.org/abs/1711.09313
  [27]: https://doi.org/10.1037//0033-2909.110.3.499
  [28]: https://doi.org/10.1016/j.tics.2006.08.004
  [29]: https://doi.org/10.1177/0146167294201001
