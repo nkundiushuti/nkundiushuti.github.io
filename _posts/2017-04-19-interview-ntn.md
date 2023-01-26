@@ -26,5 +26,5 @@ They presented the prototype done by VideoDock and talked about non-negative mat
 PHENICX source separation has been already in the news (in Spanish, Catalan and Romanian) in February 2017. Read more [here][3].
 
  [1]: https://phenicx.upf.edu/
- [2]: https://mtg.upf.edu/download/datasets/phenicx-anechoic
- [3]: https://mariusmiron.com/in-the-news/
+ [2]: http://mtg.upf.edu/download/datasets/phenicx-anechoic
+ [3]: http://mariusmiron.com/in-the-news/

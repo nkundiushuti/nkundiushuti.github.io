@@ -88,6 +88,6 @@ There is a trend in computer science to advocate for neutrality of technology. H
 
 
 
- [1]: https://link.springer.com/article/10.1007/s10506-020-09268-y/
+ [1]: http://link.springer.com/article/10.1007/s10506-020-09268-y/
  [2]: https://dl.acm.org/doi/pdf/10.1145/3322640.3326705
 

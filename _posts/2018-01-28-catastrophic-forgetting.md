@@ -34,6 +34,6 @@ Then benchmark and the evaluation is much more exhaustive than the previous pape
 
 
 
- [1]: https://joanserra.weebly.com
+ [1]: http://joanserra.weebly.com
  [2]: https://www.cs.uic.edu/~liub/lifelong-machine-learning.html
  [3]: https://arxiv.org/abs/1801.01423

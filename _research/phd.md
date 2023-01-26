@@ -47,11 +47,11 @@ Source separation makes possible a range of creative applications such as virtua
 
 You can have a go with the [orchestra focus demo][4] where you can listen specific instruments from an orchestra.
 
- [1]: https://phenicx.upf.edu/
- [2]: https://phenicx.com/
- [3]: https://mtg.upf.edu/download/datasets/phenicx-anechoic
+ [1]: http://phenicx.upf.edu/
+ [2]: http://phenicx.com/
+ [3]: http://mtg.upf.edu/download/datasets/phenicx-anechoic
  [4]: https://repovizz.upf.edu/phenicx/
- [5]: https://www.dtic.upf.edu/~jjaner/
+ [5]: http://www.dtic.upf.edu/~jjaner/
  [6]: https://emiliagomez.com/people/
  [7]: https://github.com/MTG/DeepConvSep
  [8]: #

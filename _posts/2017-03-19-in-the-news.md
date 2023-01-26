@@ -21,14 +21,14 @@ Then the news got featured by [some catalan publications][3], the Spanish press 
         <iframe width="1280" height="720" src="//www.youtube.com/embed/vk1TN1biF2k" frameborder="0" allowfullscreen></iframe>
 </div>
 
- [1]: https://euroefe.euractiv.es/6298_ciencia-y-tecnologia/4347552_crean-una-tecnologia-que-separa-el-sonido-de-los-instrumentos-de-una-orquesta.html
- [2]: https://www.la-razon.com/sociedad/asi_va_la_vida/Tecnologia-separa-sonido-instrumentos-orquesta_0_2660133998.html
- [3]: https://www.regio7.cat/arreu-catalunya-espanya-mon/2017/02/22/nova-tecnologia-upf-permet-separar/401021.html
- [4]: https://ecodiario.eleconomista.es/musica/noticias/8170407/02/17/Escuchar-musica-de-otra-manera-consiguen-separar-separa-el-sonido-de-los-instrumentos-de-una-orquesta.html
- [5]: https://www.antena3.com/noticias/tecnologia/desarrollan-tecnologia-que-separa-sonido-instrumentos-orquesta_2017022158ac33790cf2f719cc00786d.html
- [6]: https://www.eluniversal.com/noticias/cultura/crean-una-tecnologia-que-separa-sonido-los-instrumentos-orquesta_640733
+ [1]: http://euroefe.euractiv.es/6298_ciencia-y-tecnologia/4347552_crean-una-tecnologia-que-separa-el-sonido-de-los-instrumentos-de-una-orquesta.html
+ [2]: http://www.la-razon.com/sociedad/asi_va_la_vida/Tecnologia-separa-sonido-instrumentos-orquesta_0_2660133998.html
+ [3]: http://www.regio7.cat/arreu-catalunya-espanya-mon/2017/02/22/nova-tecnologia-upf-permet-separar/401021.html
+ [4]: http://ecodiario.eleconomista.es/musica/noticias/8170407/02/17/Escuchar-musica-de-otra-manera-consiguen-separar-separa-el-sonido-de-los-instrumentos-de-una-orquesta.html
+ [5]: http://www.antena3.com/noticias/tecnologia/desarrollan-tecnologia-que-separa-sonido-instrumentos-orquesta_2017022158ac33790cf2f719cc00786d.html
+ [6]: http://www.eluniversal.com/noticias/cultura/crean-una-tecnologia-que-separa-sonido-los-instrumentos-orquesta_640733
  [7]: https://www.agerpres.ro/sci-tech/2017/03/09/cercetatorul-roman-marius-miron-printre-creatorii-unei-tehnologii-ce-separa-sunetul-instrumentelor-dintr-o-orchestra-17-30-52
  [8]: https://www.upf.edu/
  [9]: https://phenicx.upf.edu/
- [10]: https://mtg.upf.edu/download/datasets/phenicx-anechoic
+ [10]: http://mtg.upf.edu/download/datasets/phenicx-anechoic
  [11]: https://www.google.es/search?q=tecnolog%C3%ADa+que+separa+el+sonido+de+los+instrumentos+de+una+orquestra

@@ -36,17 +36,17 @@ Demos:
         <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=9vSxRVh1YZU" frameborder="0" allowfullscreen></iframe>
 </div>
 
- [1]: https://www.deeplearningbook.org
+ [1]: http://www.deeplearningbook.org
  [2]: https://github.com/MTG/DeepConvSep
  [3]: https://repositori.upf.edu/bitstream/handle/10230/32919/Martel_2017.pdf?sequence=1&isAllowed=y
- [4]: https://mtg.upf.edu/node/3825
+ [4]: http://mtg.upf.edu/node/3825
  [5]: https://doi.org/10.5281/zenodo.823037
  [6]: https://hiphopss.github.io
  [7]: https://musml.weebly.com
  [8]: https://ismir2017.smcnus.org
  [9]: https://www.slideshare.net/MariusMiron2/presentation-ismir
  [10]: https://www.slideshare.net/MariusMiron2/presentation-mml
- [11]: https://mtg.upf.edu/node/3806
+ [11]: http://mtg.upf.edu/node/3806
  [12]: https://www.youtube.com/watch?v=c0xJIJrp5w8
  [13]: https://www.youtube.com/watch?v=9vSxRVh1YZU
  [14]: https://doi.org/10.5281/zenodo.1009136

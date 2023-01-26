@@ -20,7 +20,7 @@ I currently work as Senior AI Researcher *[Earth Species Project][2]*.
 
 
  [1]: https://www.linkedin.com/in/marius-miron-9473233/
- [2]: https://earthspeciesproject.com
+ [2]: http://earthspeciesproject.com
  [3]: {{ site.url }}/blog/
  [4]: #
  [5]: #

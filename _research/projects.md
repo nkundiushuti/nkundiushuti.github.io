@@ -40,8 +40,8 @@ To answer these questions, in ShakeIt, we follow an analysis/synthesis approach,
 * Implementation of a software for real-time generation/manipulation of polyphonic rhythmic sequences conveying the groove of a certain style, or to gradually change the groove feel of a rhythmic sequence at run time.
 
 
- [1]: https://phenicx.upf.edu/
- [2]: https://smc.inesctec.pt/shakeit/
+ [1]: http://phenicx.upf.edu/
+ [2]: http://smc.inesctec.pt/shakeit/
  [3]: https://ec.europa.eu/jrc/communities/community/humaint
  [4]: #
  [5]: #
