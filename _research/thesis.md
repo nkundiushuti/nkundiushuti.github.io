@@ -53,9 +53,9 @@ The note refinement code in part three of the thesis is on [github][6]. We do no
 Code and detailed instructions on how to reproduce experiments in part four (source separation using deep learning) can be found on the associated [github repository][8]. The separation results and the computed metrics with BSS Eval can be found on the [zenodo page][9]. Similarly, for the score-informed version, check the [zenodo page][10].
 
 
- [1]: http://mariusmiron.com/research/phd/
- [2]: http://mariusmiron.com/phd_thesis/MariusMiron_thesis.pdf
- [3]: http://mtg.upf.edu/download/datasets/phenicx-anechoic
+ [1]: https://mariusmiron.com/research/phd/
+ [2]: https://mariusmiron.com/phd_thesis/MariusMiron_thesis.pdf
+ [3]: https://mtg.upf.edu/download/datasets/phenicx-anechoic
  [4]: https://repovizz.upf.edu/phenicx/
  [5]: https://zenodo.org/record/840025
  [6]: https://github.com/nkundiushuti/Note-refinement-

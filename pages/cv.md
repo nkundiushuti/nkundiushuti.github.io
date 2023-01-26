@@ -26,9 +26,9 @@ I [code][5] in Python and C++, mainly using open source library and I try to pub
 
 
  [1]: https://www.linkedin.com/in/marius-miron-9473233/
- [2]: http://mtg.upf.edu/
+ [2]: https://mtg.upf.edu/
  [3]: {{ site.url }}/research/phd
- [4]: http://smc.inesctec.pt/
+ [4]: https://smc.inesctec.pt/
  [5]: https://github.com/nkundiushuti
  [6]: https://ec.europa.eu/jrc/communities/community/humaint
  [7]: https://arxiv.org/abs/1801.01423

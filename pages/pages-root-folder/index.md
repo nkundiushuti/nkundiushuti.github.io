@@ -9,15 +9,15 @@ header:
   image_fullwidth: mediaplayer_js-home.jpg
 widget1:
   title: "PhD Thesis"
-  url: 'http://mariusmiron.com/research/phd/'
+  url: 'https://mariusmiron.com/research/phd/'
   image: widget_phenicx.jpg
   text: 'My PhD thesis concerned separating the audio corresponding to the instruments in an orchestral music mixture. This allows for interesting applications such as re-creating the experience of the concert in virtual reality applications. '
 #This allows for interesting applications such as focusing on a particular sections in the orchestra or the re-creating the experience of the concert in virtual reality.
 widget2:
   title: "Research projects"
-  url: 'http://mariusmiron.com/research/projects/'
+  url: 'https://mariusmiron.com/research/projects/'
   image: widget_prometeus.jpg
-  text: 'My research interests span a diverse range of topics: machine learning, signal processing, fairness and explainability of machine learning models, music information retrieval. I participated in interdisciplinary projects, such as <a href="https://ec.europa.eu/jrc/communities/community/humaint">HUMAINT</a>, <a href="http://smc.inesctec.pt/shakeit/">Shake-it</a> and <a href="http://phenicx.upf.edu/">PHENICX</a>.'
+  text: 'My research interests span a diverse range of topics: machine learning, signal processing, fairness and explainability of machine learning models, music information retrieval. I participated in interdisciplinary projects, such as <a href="https://ec.europa.eu/jrc/communities/community/humaint">HUMAINT</a>, <a href="https://smc.inesctec.pt/shakeit/">Shake-it</a> and <a href="https://phenicx.upf.edu/">PHENICX</a>.'
 widget3:
   title: "Code & data"
   url: 'https://github.com/nkundiushuti'
@@ -35,7 +35,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 #callforaction:
-#  url: http://sic.upf.edu/challenges/mtg/
+#  url: https://sic.upf.edu/challenges/mtg/
 #  text: participate in the sonar innovation challenge to create a new way of dj-ing ›
 #  style: alert
 permalink: /index.html
