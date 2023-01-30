@@ -14,7 +14,7 @@ title: 'Marius Miron'
 slogan: 'Marius Miron - personal website'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'I am a Senior Researcher at Music Technology Group, Pompeu Fabra University, Barcelona. I teach the Music Information Retrieval class for the Sound and Music Computing Masters.'
+description: 'I am a Senior AI Researcher at Earth Species Project.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Theme based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'

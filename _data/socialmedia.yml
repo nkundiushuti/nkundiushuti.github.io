@@ -18,10 +18,10 @@
 #   class: icon-cloud
 #   title: "Mixe, was sonst?"
 
-- name: YouTube Google+
-  url: https://plus.google.com/u/0/+MariusMironplus
-  class: icon-googleplus
-  title: "YouTube Google+"
+# - name: YouTube Google+
+#   url: https://plus.google.com/u/0/+MariusMironplus
+#   class: icon-googleplus
+#   title: "YouTube Google+"
 
 # - name: Facebook
 #   url: https://www.facebook.com/

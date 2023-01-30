@@ -13,6 +13,8 @@ Download my [resume][8] or check my [Linkedin][1] page.
 
 ![myphoto]({{ site.url }}/images/DSC_3815.jpg)
 
+Currently, I work for the [Earth Species Project][9] as a Senior AI Researcher. My research area is machine learning for biology applications, in particular bioacoustics.
+
 I worked as a Senior Researcher for Music Technology Group, Pompeu Fabra University. I lead research projects, supervised PhD, Masters students and other researchers. I contributed to the overall activities and goals of the MTG. In particular, I collaborated at writing project proposals, I advised a few industrial-transfer project related to audio source separation, audio fingerprinting, music classification, version identification. In addition, I taught the Music Information Retrieval class at the Sound and Music Computing Masters.
 
 I was a Postdoctoral researcher for European Commission's Joint Research Centre within the project [HUMAINT][6] on Explainability and Fairness in Machine Learning. I have a PhD (2018) in Computer Science (Audio Signal Processing and Machine Learning) from Pompeu Fabra University, Barcelona.
@@ -35,7 +37,7 @@ I [code][5] in Python and C++, mainly using open source library and I try to pub
  [6]: https://ec.europa.eu/jrc/communities/community/humaint
  [7]: https://arxiv.org/abs/1801.01423
  [8]: {{ site.url }}/images/Marius_Miron_CV.pdf
- [9]: #
+ [9]: https://www.earthspecies.org
  [10]: #
  [11]: #
  [12]: #
