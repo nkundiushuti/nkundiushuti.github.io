@@ -13,6 +13,8 @@ Download my [resume][8] or check my [Linkedin][1] page.
 
 ![myphoto]({{ site.url }}/images/DSC_3815.jpg)
 
+I worked as a Senior Researcher for Music Technology Group, Pompeu Fabra University. I lead research projects, supervised PhD, Masters students and other researchers. I contributed to the overall activities and goals of the MTG. In particular I advised a few industrial-transfer project related to audio source separation, audio fingerprinting, music classification, version identification. In addition, I taught the Music Information Retrieval class at the Sound and Music Computing Masters.
+
 I was a Postdoctoral researcher for European Commission's Joint Research Centre within the project [HUMAINT][6] on Explainability and Fairness in Machine Learning. I have a PhD (2018) in Computer Science (Audio Signal Processing and Machine Learning) from Pompeu Fabra University, Barcelona.
 
 In 2013 I have started my PhD at [Music Technology Group][2], Pompeu Fabra University, Barcelona as a part of an European FP7 project which was aiming at transforming the way classical music is enjoyed. My [PhD thesis][3] concerned separating the audio corresponding to the instruments in an orchestral music mixture. I gave a new flavour to the topic by proposing a deep learning approach.
