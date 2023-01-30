@@ -31,17 +31,9 @@ for Broadcast Monitoring.” In *The 23rd International Society for Music
 Information Retrieval Conference (ISMIR 2022)*.
 
 Narang, Jyoti, Marius Miron, Xavier Lizarraga Seijas, and Xavier Serra.
-2021. “Analysis of Musical Dynamics in Vocal Performances.” In *Kitahara
-t, Aramaki m, Kronland-Martinet r, Ystad s, Editors. Music in the AI
-Era. Proceedings of the 15th International Symposium on Computer Music
-Multidisciplinary Research; 2021 Nov 15-19; Tokyo, Japan. Japan: CMMR
-2021 Organizing Committee, the Laboratory PRISM; 2021.* Les éditions de
-PRISM.
+2021. “Analysis of Musical Dynamics in Vocal Performances.” In *Proceedings of the 15th International Symposium on Computer Music Multidisciplinary Research; 2021 Nov 15-19; Tokyo, Japan.*
 
-Narang, Jyoti, Marius Miron, Ajay Srinivasamurthy, and Xavier Serra.
-2022. “Analysis of Musical Dynamics in Vocal Performances Using Loudness
-Measures.” In *25th International Conference on Digital Audio Effects
-(DAFx2022)*, 33–39.
+Narang, Jyoti, Marius Miron, Ajay Srinivasamurthy, and Xavier Serra. 2022. “Analysis of Musical Dynamics in Vocal Performances Using Loudness Measures.” In *25th International Conference on Digital Audio Effects (DAFx2022)*, 33–39.
 
 Plaja-Roglans, Genı́s, Marius Miron, and Xavier Serra. 2022. “A
 Diffusion-Inspired Training Strategy for Singing Voice Extraction in the
@@ -128,10 +120,7 @@ Law*, 83–92.
 
 ## 2018 Deep Learning
 
-Serra, Joan, Didac Suris, Marius Miron, and Alexandros Karatzoglou.
-2018. “Overcoming Catastrophic Forgetting with Hard Attention to the
-Task.” In *The 35th International Conference on Machine Learning (ICML
-2018)*.
+Serra, Joan, Didac Suris, Marius Miron, and Alexandros Karatzoglou. 2018. “Overcoming Catastrophic Forgetting with Hard Attention to the Task.” In *The 35th International Conference on Machine Learning (ICML 2018)*.
 
 
 ## 2015-2018 Machine learning for audio signal processing
@@ -169,9 +158,7 @@ Miron, Marius, Jordi Janer Mestres, and Emilia Gómez Gutiérrez. 2017.
 “Monaural Score-Informed Source Separation for Classical Music Using
 Convolutional Neural Networks.” In *Hu x, Cunningham SJ, Turnbull d,
 Duan z. ISMIR 2017. 18th International Society for Music Information
-Retrieval Conference; 2017 Oct 23-27; Suzhou, China.\[canada\]: ISMIR;
-2017. P. 55-62.* International Society for Music Information Retrieval
-(ISMIR).
+Retrieval Conference; 2017 Oct 23-27; Suzhou, China.\[canada\]: ISMIR; 2017. P. 55-62.* International Society for Music Information Retrieval (ISMIR).
 
 Martel Baro, Héctor, and Marius Miron. 2017. “Data Augmentation for Deep
 Learning Source Separation of HipHop Songs.”
