@@ -30,8 +30,7 @@ Joren Six, and Xavier Serra. 2022. “BAF: An Audio Fingerprinting Dataset
 for Broadcast Monitoring.” In *The 23rd International Society for Music
 Information Retrieval Conference (ISMIR 2022)*.
 
-Narang, Jyoti, Marius Miron, Xavier Lizarraga Seijas, and Xavier Serra.
-2021. “Analysis of Musical Dynamics in Vocal Performances.” In *Proceedings of the 15th International Symposium on Computer Music Multidisciplinary Research; 2021 Nov 15-19; Tokyo, Japan.*
+Narang, Jyoti, Marius Miron, Xavier Lizarraga Seijas, and Xavier Serra. 2021. “Analysis of Musical Dynamics in Vocal Performances.” In *Proceedings of the 15th International Symposium on Computer Music Multidisciplinary Research; 2021 Nov 15-19; Tokyo, Japan.*
 
 Narang, Jyoti, Marius Miron, Ajay Srinivasamurthy, and Xavier Serra. 2022. “Analysis of Musical Dynamics in Vocal Performances Using Loudness Measures.” In *25th International Conference on Digital Audio Effects (DAFx2022)*, 33–39.
 
