@@ -8,7 +8,7 @@ header:
 ---
 
 
-### 2020-2023 Music Informatin Retriveal
+### 2020-2023 Music Information Retrieval
 I have been teaching the [Music Information Retrieval][2] class at the Sound and Music Computing Masters (Pompeu Fabra University).
 
 ### 2021-2023 Fairness and Interpretability
