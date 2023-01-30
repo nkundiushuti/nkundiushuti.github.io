@@ -15,6 +15,13 @@ Code is made available through github, either at my [repository][1] or at the re
 
 Except parts of code which I couldn't publish because of non-disclosure agreements, the research presented in [papers][4] is documented in the repositories referenced in the papers, along with links to the datasets and instructions on how to replicate those experiments. 
 
+### Mirdata and soundata
+![mirdata]({{ site.url }}/images/mirdata.png)
+
+Programatic dataset loaders in Python
+
+During 2020-2021 I have supervised a team of 2 MTG interns who worked part-time on implementing MTG dataloaders into [mirdata][8] and soundata libraries which allow for quickly prototyping software and machine learning models using these datasets. We have closely colaborated with the main authors of these libraries, Magdalena Fuentes (NYU) and Rachel Bittner (Spotify).
+
 ### DeepConvSep
 ![deepconvsep]({{ site.url }}/images/widget_deepconvsep.png)
 
@@ -50,6 +57,6 @@ This [dataset][7] includes audio and annotations useful for tasks as score-infor
  [5]: https://staff.aist.go.jp/m.goto/RWC-MDB/
  [6]: https://github.com/SMC-INESC/beatStation
  [7]: https://mtg.upf.edu/download/datasets/phenicx-anechoic
- [8]: #
+ [8]: https://mirdata.readthedocs.io/en/latest/
  [9]: #
  [10]: #

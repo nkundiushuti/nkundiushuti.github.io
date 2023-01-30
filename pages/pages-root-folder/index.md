@@ -22,8 +22,7 @@ widget3:
   title: "Code & data"
   url: 'https://github.com/nkundiushuti'
   image: widget_git.jpg
-  text: 'Check out my latest <a href="https://github.com/MTG/DeepConvSep
-">deep learning repository</a> in python. I am committed to the principles of <em>research reproducibility</em>. Most of the code is made available through github, along with links to the dataset and instructions on how to replicate experiments.'
+  text: 'I am committed to the principles of <em>research reproducibility</em>. Most of the code is made available through github, along with links to the dataset and instructions on how to replicate experiments.'
 #
 # Use the call for action to show a button on the frontpage
 #

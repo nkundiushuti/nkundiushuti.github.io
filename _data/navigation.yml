@@ -27,11 +27,19 @@
     url: "/research/projects"
   - title: "Code & data"
     url: "/research/code"
+  - title: "Dissemination"
+    url: "/research/rdissemination"
 
-- title: Teaching
-  url: "/teaching"
+- title: Teaching & Mentoring
+  #url: "/teaching"
   side: left
-
+  dropdown:
+  - title: "Teaching"
+    url: "/teaching/teaching"
+  - title: "PhD & Masters students"
+    url: "/teaching/students"
+  - title: "Other activities"
+    url: "/teaching/activities"
 
 - title: "Search"
   url: "/search"
