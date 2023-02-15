@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: mediaplayer_js-home.jpg
+  image_fullwidth: mediaplayer_columns-home.jpg
 widget1:
   title: "PhD Thesis"
   url: 'https://mariusmiron.com/research/phd/'

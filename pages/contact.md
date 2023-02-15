@@ -7,7 +7,7 @@ subheadline: "Wufoo-powered contact forms"
 teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 header:
-    image_fullwidth: "mediaplayer_js-home.jpg"
+    image_fullwidth: "mediaplayer_columns-home.jpg"
 ---
 <div id="wufoo-zg2e4v81uvgnvw">
 Fill out my <a href="https://mariusmiron.wufoo.com/forms/zg2e4v81uvgnvw">online form</a>.

@@ -6,7 +6,7 @@ subheadline: "Why do I do?"
 teaser: "I develop, explore, make, evaluate, write, experiment, teach, help, listen, record, glimpse, cook, play ..."
 permalink: "/info/"
 header:
-    image_fullwidth: "mediaplayer_js-home.jpg"
+    image_fullwidth: "mediaplayer_columns-home.jpg"
 ---
 ...and learn something new everyday.
 
