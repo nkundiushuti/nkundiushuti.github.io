@@ -9,7 +9,7 @@ header:
     image_fullwidth: "mediaplayer_js-home.jpg"
 ---
 
-Download my [resume][8] or check my [Linkedin][1] page.
+Check my [Linkedin][1] page.
 
 ![myphoto]({{ site.url }}/images/DSC_3815.jpg)
 
