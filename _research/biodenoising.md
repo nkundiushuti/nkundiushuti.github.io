@@ -42,11 +42,11 @@ header:
 | Xeno canto labeled subset   | 6.82   | terrestrial|   no    |  yes   | [link][26] |  birds      |
 | ASA Berlin                  | 4.69   | terrestrial|   no    |  no    | [link][10] |  various    |
 | Watkins                     | 5.33   | underwater |   no    |  yes   | [link][11] |  various    |
-
+{% 
 | Clean datasets              | Hours  | Medium     | Private | Direct | Link       | Type        |
 |-----------------------------|--------|------------|---------|--------|------------|-------------|
-<!-- | NSynth test                 | 4.55   | -          |   no    |  yes   | [link][12] |  music      |
-| Vocalset                    | 9.06   | -          |   no    |  yes   | [link][14] |  music      | -->
+| NSynth test                 | 4.55   | -          |   no    |  yes   | [link][12] |  music      |
+| Vocalset                    | 9.06   | -          |   no    |  yes   | [link][14] |  music      | %}
 | Macaques coo calls          | 0.7    | terrestrial|   no    |  yes   | [link][15] |  macaques   |
 | Giant otters                | 0.5    | terrestrial|   no    |  yes   | [link][16] |  otters     |
 | Egyptian fruit bats         | 5.21   | terrestrial|   no    |  yes   | [link][17] |  bats       |
@@ -54,7 +54,7 @@ header:
 | Noise datasets              | Hours  | Medium     | Private | Direct | Link       | Type        |
 |-----------------------------|--------|------------|---------|--------|------------|-------------|
 | FSD50k subset               | 26.34  | terrestrial|   no    |  yes   | [link][19] |  various    |
-<!-- | Urbansound8k subset         | 4.99   | terrestrial|   no    |  yes   | [link][18] |  various    | -->
+{%  | Urbansound8k subset         | 4.99   | terrestrial|   no    |  yes   | [link][18] |  various    | %}
 | IDMT Traffic                | 9.72   | terrestrial|   no    |  yes   | [link][20] |  streets    |
 | ShipsEar                    | 3.55   | underwater |   yes   |  no    | [link][21] |  ships      |
 | DeepShip subset             | 1.78   | underwater |   no    |  yes   | [link][22] |  ships      |
