@@ -13,9 +13,9 @@ Check my [Linkedin][1] page.
 
 ![myphoto]({{ site.url }}/images/DSC_3815.jpg)
 
-Currently, I work for the [Earth Species Project][9] as a Senior AI Research Scientist. My research area is machine learning for biology applications, in particular bioacoustics.
+Currently, I work for the [Earth Species Project][9] as a Senior AI Research Scientist. My research area is machine learning for biology applications, in particular bioacoustics. I train generative large language models and develop signal processing methods to help biologists decode animal communication.
 
-I worked as a Senior Researcher for Music Technology Group, Pompeu Fabra University. I lead research projects, supervised PhD, Masters students and other researchers. I contributed to the overall activities and goals of the MTG. In particular, I collaborated at writing project proposals, I advised a few industrial-transfer project related to audio source separation, audio fingerprinting, music classification, version identification. In addition, I taught the Music Information Retrieval class at the Sound and Music Computing Masters.
+Previously, I worked as a Senior Researcher for Music Technology Group, Pompeu Fabra University. I lead research projects, supervised PhD, Masters students and other researchers. I contributed to the overall activities and goals of the MTG. In particular, I collaborated at writing project proposals, I advised a few industrial-transfer project related to audio source separation, audio fingerprinting, music classification, version identification. In addition, I taught the Music Information Retrieval class at the Sound and Music Computing Masters.
 
 I was a Postdoctoral researcher for European Commission's Joint Research Centre within the project [HUMAINT][6] on Explainability and Fairness in Machine Learning. I have a PhD (2018) in Computer Science (Audio Signal Processing and Machine Learning) from Pompeu Fabra University, Barcelona.
 

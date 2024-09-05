@@ -18,7 +18,7 @@ The processes of creating, disseminating, learning and listening to music are be
 
 ### 2021 Sonar+D AI and Music Festival
 
-I took part to the [discussions][3] for one of the [AI and Music Festival's][2] roundtables. Technology has defined musical sounds, structures, genres, and styles throughout the centuries, and in 2021 we are pretty much sure that AI will define the history of music for years to come, and that it will gather audiences that will identify with this new music made with AI. Participating in the discussion are: Libby Heaney (artist, coder, quantum physicist), Nabihah Iqbal (musician, musicologist), Jan St. Werner of the band Mouse on Mars, and.... the computer scientist, myself.
+I took part to the [discussions][3] for one of the [AI and Music Festival's][2] roundtables. Technology has defined musical sounds, structures, genres, and styles throughout the centuries, and in 2021 we are pretty much sure that AI will define the history of music for years to come, and that it will gather audiences that will identify with this new music made with AI. Participating in the discussion are: Libby Heaney (artist, coder, quantum physicist), Nabihah Iqbal (musician, musicologist), Jan St. Werner of the band Mouse on Mars, and ... the computer scientist, myself.
 
 <div class="flex-video">
         <iframe width="1280" height="720" src="https://www.youtube.com/embed/JWcNY-fKoYA" frameborder="0" allowfullscreen></iframe>
