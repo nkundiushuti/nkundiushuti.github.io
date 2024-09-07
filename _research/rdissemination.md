@@ -10,6 +10,7 @@ categories:
   - research
 tags:
   - media, festivals, seminars
+mediaplayer: true
 ---
 I participated to and organized various events, seminars, winter-schools, round-tables related to science.
 
@@ -20,10 +21,9 @@ The processes of creating, disseminating, learning and listening to music are be
 
 I took part to the [discussions][3] for one of the [AI and Music Festival's][2] roundtables. Technology has defined musical sounds, structures, genres, and styles throughout the centuries, and in 2021 we are pretty much sure that AI will define the history of music for years to come, and that it will gather audiences that will identify with this new music made with AI. Participating in the discussion are: Libby Heaney (artist, coder, quantum physicist), Nabihah Iqbal (musician, musicologist), Jan St. Werner of the band Mouse on Mars, and ... the computer scientist, myself.
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="https://www.youtube.com/embed/JWcNY-fKoYA" frameborder="0" allowfullscreen></iframe>
-</div>
-
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="https://www.youtube.com/embed/JWcNY-fKoYA" />
+</video>
 
 ### 2019 European researcher's night
 
@@ -33,10 +33,9 @@ This was the closest I could get to the [general audience][5]: informing people 
 
 I menthored a [team][6] of researchers, developers, and musicians to develop a prototype for a music app.
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="https://www.youtube.com/embed/ziYS6UHJVYQ" frameborder="0" allowfullscreen></iframe>
-</div>
-
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="https://www.youtube.com/embed/ziYS6UHJVYQ" />
+</video>
 
  [1]: https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/id/260341354/maximized
  [2]: https://aimusicfestival.eu/en

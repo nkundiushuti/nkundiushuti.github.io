@@ -14,6 +14,7 @@ tags:
   - phd, source separation, thesis
 header:
    image_fullwidth: "header_orchestra.jpg"
+mediaplayer: true
 ---
 
 
@@ -36,9 +37,9 @@ In the third part of the thesis, our contributions are towards fixing context-sp
 Most of this work follows the research reproducibility principles, inasmuch the datasets, code, software prototypes, published papers, and project reports are made available along with the necessary instructions.'%}
 
 A video recording of the PhD defense has been uploaded on youtube
-<div class="flex-video">
-        <iframe width="1280" height="720" src="https://www.youtube.com/embed/FDrFTTVOtr0" frameborder="0" allowfullscreen></iframe>
-</div>
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="https://www.youtube.com/embed/FDrFTTVOtr0" />
+</video>
 
 ## Datasets
 

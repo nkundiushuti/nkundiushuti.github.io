@@ -10,6 +10,7 @@ categories:
   - blog
 tags:
   - research, news, deep learning, machine learning, interpretability, fatml
+mediaplayer: true
 ---
 
 Interpretability is a requisite of machine learning systems which allows for an explanation of their decisions or functionality. The machine learning literature does not have a consensus on a definition of interpretability and state of the arts methods evaluate it through proxy characteristics. Fortunately, this topic benefits from two position papers [Doshi-Velez and Kim (2017), Lipton (2016)] which try to formalize it. I will present the main points of these papers. Then, I will discuss interpretability in medicine as a strictly-regulated field, and the potential for confirmation bias in personalized explanations.
@@ -22,9 +23,11 @@ There are two main position papers on the topic of interpretability:
 
 Doshi-Velez, F., & Kim, B. (2017). Towards A Rigorous Science of Interpretable Machine Learning, (Ml), 1–13. [pdf][1]
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/bQfYRcXc9F0" frameborder="0" allowfullscreen></iframe>
-</div>
+
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="https://www.youtube.com/embed/bQfYRcXc9F0" />
+</video>
+
 
 Lipton, Z. C. (2016). The Mythos of Model Interpretability, (Whi). [pdf][2]
 
@@ -82,10 +85,10 @@ Doshi-Velez and Kim (2017) recommend human produced explanations as a baseline. 
 
 Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). “Why Should I Trust You?”: Explaining the Predictions of Any Classifier. [pdf][6]
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/KP7-JtFMLo4" frameborder="0" allowfullscreen></iframe>
-</div>
 
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="https://www.youtube.com/embed/KP7-JtFMLo4" />
+</video>
 
 [GRADCAM][7] - local explanations, evaluating reliability/trust, can evaluate convolutional neural networks
 
@@ -108,9 +111,9 @@ Montavon, G., Samek, W., & Müller, K. R. (2018). Methods for interpreting and u
 Shrikumar, A., Greenside, P., & Kundaje, A. (2017). Learning Important Features Through Propagating Activation Differences. [pdf][12]
 
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/v8cxYjNZAXc" frameborder="0" allowfullscreen></iframe>
-</div>
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="https://www.youtube.com/embed/v8cxYjNZAXc" />
+</video>
 
 
 [Network Dissection][13] - local explanations, model interpretability, interpretability = alignment with semantic concepts, can evaluate convolutional neural networks
@@ -126,22 +129,19 @@ Bau, D., Zhou, B., Khosla, A., Oliva, A., & Torralba, A. (2017). Network Dissect
 
 Koh, P. W., & Liang, P. (2017). Understanding Black-box Predictions via Influence Functions. [pdf][16]
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/0w9fLX_T6tY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="https://www.youtube.com/embed/0w9fLX_T6tY" />
+</video>
+s
 
 [RRR][17] - local and global explanation, can evaluate gradient-based methods - neural networks
 
 
 Ross, A. S., Hughes, M. C., & Doshi-Velez, F. (2017). Right for the right reasons: Training differentiable models by constraining their explanations. IJCAI International Joint Conference on Artificial Intelligence, 2662–2670. [pdf][18]
 
-
-<div class="flex-video">
-        <iframe width="1280" height="720" src="//www.youtube.com/embed/MMxZlr_L6YE" frameborder="0" allowfullscreen></iframe>
-</div>
-
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="https://www.youtube.com/embed/MMxZlr_L6YE" />
+</video>
 
 
 ### Collections of methods:

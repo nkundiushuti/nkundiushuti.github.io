@@ -14,19 +14,20 @@ tags:
   - phd, source separation, thesis
 header:
    image_fullwidth: "header_orchestra.jpg"
+mediaplayer: true
 ---
 
 
 My PhD topic was source separation of classical musical instruments from orchestral pieces. It was a part of the european project [PHENICX][1], which aimed at transforming the way classical music is enjoyed. Being able to separate the audio corresponding to the instruments, allowed for interesting applications such as focusing on a particular sections in the orchestra or the re-creating the experience of the concert in virtual reality.
 
 I was supervised by [Jordi Janer][5] and [Emilia Gomez][6].
-
+s
 
 Below you can watch a demo from the official [app][2] which uses the separated tracks.
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="https://www.youtube.com/embed/7kxS8nblDYk" frameborder="0" allowfullscreen></iframe>
-</div>
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="https://www.youtube.com/embed/7kxS8nblDYk" />
+</video>
 
 Although I mainly worked on orchestral music, in this [github repository][7] I have code for pop music source separation using deep learning.
 
