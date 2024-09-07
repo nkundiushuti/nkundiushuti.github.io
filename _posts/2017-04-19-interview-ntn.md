@@ -10,6 +10,7 @@ categories:
   - blog
 tags:
   - research, news, source separation, phenicx
+mediaplayer: true
 ---
 The South American news channel NTN24 asked me to talk about the[PHENICX][1] project and orchestral music source separation. This interview follows up the journal article we published last year (December 2016) and the [dataset][2] associated with it:
 
