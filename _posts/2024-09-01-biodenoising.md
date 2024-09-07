@@ -25,12 +25,11 @@ How can we denoise animal vocalizations without clean data? The current research
 
 One important thing, in our experiments we discovered that time scaling e.g. slowing down or speeding up the vocalization can help. Why does this transformation makes sense? We know that with some exceptions the pitch of a vocalization is correlated with the size of the its body. Check out the video below to see how this works for whales and birds.
 
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="http://www.youtube.com/watch?v=M5OCCuCIMbA" />
+</video>
 
-<div class="flex-video">
-        <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=M5OCCuCIMbA" frameborder="0" allowfullscreen></iframe>
-</div>
-
-So in theory if we can bring up the pitch within the human speech range, we could re-use speech enhancement models. Speech enhancement models learn signal priors such as sparsity, structure of vowels and phonemes that may be useful when denoising animal vocalizations.
+If we can bring up the pitch within the human speech range, we could re-use speech enhancement models. Speech enhancement models learn signal priors such as sparsity, structure of vowels and phonemes that may be useful when denoising animal vocalizations.
 
 
 
