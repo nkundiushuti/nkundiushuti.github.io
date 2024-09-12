@@ -6,7 +6,7 @@ layout: page
 subheadline: "Unsupervised animal vocalization denoising"
 sidebar: right
 title: "Biodenoising"
-teaser: "how to denoise without clean data?"
+teaser: "how to denoise animal vocalizations without clean data?"
 permalink: "/research/biodenoising/"
 categories:
   -
@@ -18,9 +18,15 @@ mediaplayer: true
 
 ---
 
+
+
 ## Introduction 
 
+![biodenoising]({{ site.url }}/images/biodenoising.jpg)
+
 {% include alert text='Marius Miron, Sara Keen, Jen-Yu Liu, Benjamin Hoffman, Masato Hagiwara, Olivier Pietquin, Felix Effenberger, Maddie Cusimano, "Biodenoising: animal vocalization denoising without access to clean data"' %}
+
+
 
 #### Abstract
 {% include alert text='
@@ -28,11 +34,9 @@ Animal vocalization denoising is a task similar to human speech enhancement, a w
 
 ## Audio demos
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio> | <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio> | <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio> |
-
-
+| Noisy | Cleaned | 
+|-------|---------|
+| <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" width="50%" controls="controls"></audio> | <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" width="50%" controls="controls"></audio> 
 
 
 ## Training dataset description 
@@ -76,6 +80,7 @@ Animal vocalization denoising is a task similar to human speech enhancement, a w
 
  
 ## Benchmarking sets
+[Biodenoising_validation][27] is a benchmark dataset for animal vocalization denoising. It contains 62 pairs of clean animal vocalizations and noise excerpts. 
 
 
 
@@ -105,7 +110,7 @@ Animal vocalization denoising is a task similar to human speech enhancement, a w
  [24]: https://www.mbari.org/project/open-acoustic-data/ 
  [25]: https://sanctuaries.noaa.gov/news/feb21/sanctsound-overview.html
  [26]: https://doi.org/10.5281/zenodo.7828148
- [27]: #
+ [27]: https://zenodo.org/records/13736465
  [28]: #
  [29]: #
  [30]: #
