@@ -26,7 +26,7 @@ mediaplayer: true
 
 {% include alert text='Marius Miron, Sara Keen, Jen-Yu Liu, Benjamin Hoffman, Masato Hagiwara, Olivier Pietquin, Felix Effenberger, Maddie Cusimano, "Biodenoising: animal vocalization denoising without access to clean data"' %}
 
-
+[[Github](https://github.com/mariusmiron/biodenoising) | [Github inference](https://github.com/mariusmiron/biodenoising-inference) | [Github Datasets](https://github.com/mariusmiron/biodenoising-datasets)]
 
 #### Abstract
 {% include alert text='
@@ -36,7 +36,7 @@ Animal vocalization denoising is a task similar to human speech enhancement, a w
 
 | Noisy | Cleaned | 
 |-------|---------|
-| <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" width="50%" controls="controls"></audio> | <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" width="50%" controls="controls"></audio> 
+| <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" width="80%" controls="controls"></audio> | <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" width="80%" controls="controls"></audio> 
 
 
 ## Training dataset description 
