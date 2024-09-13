@@ -20,15 +20,23 @@ mediaplayer: true
 
 ## Introduction 
 
+![biodenoising]({{ site.url }}/images/biodenoising.jpg)
+
 We present Biodenoising, a new method for animal vocalization denoising that does not require access to clean data. There are two core ideas behind Biodenoising:
-- We leverage existing speech enhancement models: there is no need to start from scratch. Speech enhancement models have seen a lot of data and have some knowledge about patterns in audio time series vs noise. 
+- We leverage existing speech enhancement models: there is no need to start from scratch. Speech enhancement models have seen a lot of data and have some knowledge about patterns in audio time series. 
 - Following the same logic, there is no need to train a separate model for each animal dataset. Since lots of signal characteristics are replicated at different scales and frequencies, a model that has seen more diverse data can be more robust to unseen conditions and generalize better. 
 
-![biodenoising]({{ site.url }}/images/biodenoising.jpg)
+There is a eloquent video about how these patterns work for whales and birds.
+
+<video width="640" height="360" id="player1" preload="none">
+  <source type="video/youtube" src="http://www.youtube.com/watch?v=M5OCCuCIMbA" />
+</video>
+
+We publish the pre-print on arXiv.
 
 {% include alert text='Marius Miron, Sara Keen, Jen-Yu Liu, Benjamin Hoffman, Masato Hagiwara, Olivier Pietquin, Felix Effenberger, Maddie Cusimano, "Biodenoising: animal vocalization denoising without access to clean data"' %}
 
-We publish two Python pip-installable libraries 'biodenoising' and 'biodenoising-datasets' that can be used to denoise animal vocalizations and download the datasets. 
+Along with the pre-print, we publish two Python pip-installable libraries 'biodenoising' and 'biodenoising-datasets' that can be used to denoise animal vocalizations and download the datasets. 
 
 | [Github](https://github.com/mariusmiron/biodenoising) | [Github inference](https://github.com/mariusmiron/biodenoising-inference) | [Github Datasets](https://github.com/mariusmiron/biodenoising-datasets) |
 
@@ -37,11 +45,11 @@ We publish two Python pip-installable libraries 'biodenoising' and 'biodenoising
 Animal vocalization denoising is a task similar to human speech enhancement, a well-studied field of research. In contrast to the latter, it is applied to a higher diversity of sound production mechanisms and recording environments, and this higher diversity is a challenge for existing models. Adding to the challenge and in contrast to speech, we lack large and diverse datasets comprising clean vocalizations. As a solution we use as training data pseudo-clean targets, i.e. pre-denoised vocalizations, and segments of background noise without a vocalization. We propose a train set derived from bioacoustics datasets and repositories representing diverse species, acoustic environments, geographic regions. Additionally, we introduce a non-overlapping benchmark set comprising clean vocalizations from different taxa and noise samples. We show that that denoising models (demucs, CleanUNet) trained on pseudo-clean targets obtained with speech enhancement models achieve competitive results on the benchmarking set. We publish data, code, libraries, and demos https://mariusmiron.com/research/biodenoising.'%}
 
 ## Benchmarking dataset
-We introduce a benchmarking dataset for animal vocalizaion denoising, [Biodenoising_validation][27] i. It contains 62 pairs of clean animal vocalizations and noise excerpts. We list some audio demos from this dataset below.
+We introduce a benchmarking dataset for animal vocalizaion denoising, [Biodenoising_validation][27]. It contains 62 pairs of clean animal vocalizations and noise excerpts. We list some audio demos from this dataset below.
 
 ## Audio demos
 
-We look at zero-shot performance of the methods on the benchmarking dataset, i.e. generalization to unseen taxa and noise. None of the methods has been adapted/seen to the tested datasets. So the performance may improve when doing self-training to those data. 
+Here we look at zero-shot performance of the methods on the benchmarking dataset, i.e. generalization to unseen taxa and noise. None of the methods has been adapted/seen to the tested datasets. So the performance may improve when doing self-training to those data. Similarly, noisereduce may improve by hand-tuning its parameters to each of the files.
 
 First, we compare the original noisy file with our denoising trained on pseudo-clean targets(biodenoising) and two state of the art methods noisereduce and noisy target training. 
 
