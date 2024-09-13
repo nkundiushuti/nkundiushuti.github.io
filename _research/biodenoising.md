@@ -24,9 +24,9 @@ mediaplayer: true
 
 We present Biodenoising, a new method for animal vocalization denoising that does not require access to clean data. There are two core ideas behind Biodenoising:
 - We leverage existing speech enhancement models: there is no need to start from scratch. Speech enhancement models have seen a lot of data and have some knowledge about patterns in audio time series. 
-- Following the same logic, there is no need to train a separate model for each animal dataset. Since lots of signal characteristics are replicated at different scales and frequencies, a model that has seen more diverse data can be more robust to unseen conditions and generalize better. 
+- Following the same logic, there is no need to train a separate model for each animal dataset. Since lots of signal characteristics are replicated at different scales and frequencies, a model that has seen more diverse data can be more robust to unseen conditions and generalize better. Of course, you can always adapt a generic model to a specific dataset with self-training.
 
-There is a eloquent video about how these patterns work for whales and birds.
+There is a eloquent video about how these audio patterns work for whales and birds.
 
 <video width="640" height="360" id="player1" preload="none">
   <source type="video/youtube" src="http://www.youtube.com/watch?v=M5OCCuCIMbA" />
