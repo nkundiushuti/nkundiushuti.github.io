@@ -20,9 +20,15 @@ mediaplayer: true
 
 ## Introduction 
 
+We present Biodenoising, a new method for animal vocalization denoising that does not require access to clean data. There are two core ideas behind Biodenoising:
+- We leverage existing speech enhancement models: there is no need to start from scratch. Speech enhancement models have seen a lot of data and have some knowledge about patterns in audio time series vs noise. 
+- Following the same logic, there is no need to train a separate model for each animal dataset. Since lots of signal characteristics are replicated at different scales and frequencies, a model that has seen more diverse data can be more robust to unseen conditions and generalize better. 
+
 ![biodenoising]({{ site.url }}/images/biodenoising.jpg)
 
 {% include alert text='Marius Miron, Sara Keen, Jen-Yu Liu, Benjamin Hoffman, Masato Hagiwara, Olivier Pietquin, Felix Effenberger, Maddie Cusimano, "Biodenoising: animal vocalization denoising without access to clean data"' %}
+
+We publish two Python pip-installable libraries 'biodenoising' and 'biodenoising-datasets' that can be used to denoise animal vocalizations and download the datasets. 
 
 | [Github](https://github.com/mariusmiron/biodenoising) | [Github inference](https://github.com/mariusmiron/biodenoising-inference) | [Github Datasets](https://github.com/mariusmiron/biodenoising-datasets) |
 
