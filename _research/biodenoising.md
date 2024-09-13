@@ -30,19 +30,15 @@ mediaplayer: true
 {% include alert text='
 Animal vocalization denoising is a task similar to human speech enhancement, a well-studied field of research. In contrast to the latter, it is applied to a higher diversity of sound production mechanisms and recording environments, and this higher diversity is a challenge for existing models. Adding to the challenge and in contrast to speech, we lack large and diverse datasets comprising clean vocalizations. As a solution we use as training data pseudo-clean targets, i.e. pre-denoised vocalizations, and segments of background noise without a vocalization. We propose a train set derived from bioacoustics datasets and repositories representing diverse species, acoustic environments, geographic regions. Additionally, we introduce a non-overlapping benchmark set comprising clean vocalizations from different taxa and noise samples. We show that that denoising models (demucs, CleanUNet) trained on pseudo-clean targets obtained with speech enhancement models achieve competitive results on the benchmarking set. We publish data, code, libraries, and demos https://mariusmiron.com/research/biodenoising.'%}
 
-## Benchmarking sets
+## Benchmarking dataset
 We introduce a benchmarking dataset for animal vocalizaion denoising, [Biodenoising_validation][27] i. It contains 62 pairs of clean animal vocalizations and noise excerpts. We list some audio demos from this dataset below.
 
 ## Audio demos
 
 | Original | Biodenoising | Noisereduce | Noisy target |
 |----------|--------------|-------------|--------------|
-| <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_original.wav
-" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_biodenoising.wav
-" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_noisereduce.wav
-" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_noisy_target.wav
-" type="audio/wav" controls="controls"></audio> |
-
+| <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_original.wav" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_biodenoising.wav" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_noisereduce.wav" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_noisy_target.wav" type="audio/wav" controls="controls"></audio> |
+| <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/24_terrestrial_original.wav" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/24_terrestrial_biodenoising.wav" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/24_terrestrial_noisereduce.wav" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/24_terrestrial_noisy_target.wav" type="audio/wav" controls="controls"></audio> |
 
 
 ## Training dataset description 
