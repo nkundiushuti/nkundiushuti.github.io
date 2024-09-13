@@ -18,8 +18,6 @@ mediaplayer: true
 
 ---
 
-
-
 ## Introduction 
 
 ![biodenoising]({{ site.url }}/images/biodenoising.jpg)
@@ -32,11 +30,19 @@ mediaplayer: true
 {% include alert text='
 Animal vocalization denoising is a task similar to human speech enhancement, a well-studied field of research. In contrast to the latter, it is applied to a higher diversity of sound production mechanisms and recording environments, and this higher diversity is a challenge for existing models. Adding to the challenge and in contrast to speech, we lack large and diverse datasets comprising clean vocalizations. As a solution we use as training data pseudo-clean targets, i.e. pre-denoised vocalizations, and segments of background noise without a vocalization. We propose a train set derived from bioacoustics datasets and repositories representing diverse species, acoustic environments, geographic regions. Additionally, we introduce a non-overlapping benchmark set comprising clean vocalizations from different taxa and noise samples. We show that that denoising models (demucs, CleanUNet) trained on pseudo-clean targets obtained with speech enhancement models achieve competitive results on the benchmarking set. We publish data, code, libraries, and demos https://mariusmiron.com/research/biodenoising.'%}
 
+## Benchmarking sets
+We introduce a benchmarking dataset for animal vocalizaion denoising, [Biodenoising_validation][27] i. It contains 62 pairs of clean animal vocalizations and noise excerpts. We list some audio demos from this dataset below.
+
 ## Audio demos
 
-| Noisy | Cleaned | 
-|-------|---------|
-| <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio> | <audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio> 
+| Original | Biodenoising | Noisereduce | Noisy target |
+|----------|--------------|-------------|--------------|
+| <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_original.wav
+" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_biodenoising.wav
+" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_noisereduce.wav
+" type="audio/wav" controls="controls"></audio> | <audio src="https://storage.googleapis.com/esp-public-files/biodenoising/demo/benchmark/12_terrestrial_noisy_target.wav
+" type="audio/wav" controls="controls"></audio> |
+
 
 
 ## Training dataset description 
@@ -79,8 +85,7 @@ Animal vocalization denoising is a task similar to human speech enhancement, a w
 | South-Alaska humpback whale | 114.85 | underwater |   yes   |  no    | [link][6]  |  various    |
 
  
-## Benchmarking sets
-[Biodenoising_validation][27] is a benchmark dataset for animal vocalization denoising. It contains 62 pairs of clean animal vocalizations and noise excerpts. 
+ 
 
 
 
