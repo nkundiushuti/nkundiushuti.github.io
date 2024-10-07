@@ -38,7 +38,7 @@ We publish the pre-print on arXiv.
 
 Along with the pre-print, we publish two Python pip-installable libraries 'biodenoising', 'biodenoising-inference', and 'biodenoising-datasets' that can be used to denoise animal vocalizations and download the datasets. 
 
-| [Github](https://github.com/earthspecies/biodenoising) | [Github inference](https://github.com/earthspecies/biodenoising-inference) | [Github Datasets](https://github.com/earthspecies/biodenoising-datasets) |
+| [Github](https://github.com/earthspecies/biodenoising) | [Github inference](https://github.com/earthspecies/biodenoising-inference) | [Github Datasets](https://github.com/earthspecies/biodenoising-datasets) | [Colab](https://colab.research.google.com/drive/1Gc1tCe0MqAabViIgA8zGWm5KLVrEbRzg?usp=sharing) |
 
 We base our work on the speech enhancement models [demucs dns 48](https://github.com/facebookresearch/denoiser) and [CleanUNet](https://github.com/NVIDIA/CleanUNet) because they were small models and fast to train. Demucs worked particularly well. The performance may improve by training newer architectures.  
 
