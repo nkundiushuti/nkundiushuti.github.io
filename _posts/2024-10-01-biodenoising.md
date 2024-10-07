@@ -37,6 +37,18 @@ One important thing, in our experiments we discovered that time scaling e.g. slo
 
 If we can bring up the pitch within the human speech range, we could re-use speech enhancement models. Speech enhancement models learn signal priors such as sparsity, structure of vowels and phonemes that may be useful when denoising animal vocalizations.
 
+## Bibtex 
+{% include alert text='
+@misc\{miron2024biodenoisinganimalvocalizationdenoising,
+      title={Biodenoising: animal vocalization denoising without access to clean data}, 
+      author={Marius Miron and Sara Keen and Jen-Yu Liu and Benjamin Hoffman and Masato Hagiwara and Olivier Pietquin and Felix Effenberger and Maddie Cusimano\},
+      year=\{2024\},
+      eprint=\{2410.03427\},
+      archivePrefix=\{arXiv\},
+      primaryClass=\{cs.SD\},
+      url=\{https://arxiv.org/abs/2410.03427\}, 
+\}
+"' %}
 
  [1]: #
  [2]: #

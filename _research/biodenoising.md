@@ -138,10 +138,18 @@ My favorite recording is the one of a bowhead whale from the Watkins Marine Mamm
 | Orcasound best os           | 1.6    | underwater |   no    |  yes   | [link][4]  |  various    |
 | South-Alaska humpback whale | 114.85 | underwater |   yes   |  no    | [link][6]  |  various    |
 
- 
- 
-
-
+## Bibtex 
+{% include alert text='
+@misc\{miron2024biodenoisinganimalvocalizationdenoising,
+      title={Biodenoising: animal vocalization denoising without access to clean data}, 
+      author={Marius Miron and Sara Keen and Jen-Yu Liu and Benjamin Hoffman and Masato Hagiwara and Olivier Pietquin and Felix Effenberger and Maddie Cusimano\},
+      year=\{2024\},
+      eprint=\{2410.03427\},
+      archivePrefix=\{arXiv\},
+      primaryClass=\{cs.SD\},
+      url=\{https://arxiv.org/abs/2410.03427\}, 
+\}
+"' %}
 
  [1]: https://www.sciencedirect.com/science/article/abs/pii/S0003347207002722#:~:text=In%201965%2C%20Melba%20and%20David,et%20al.%2C%201990
  [2]: https://zenodo.org/record/7997739
