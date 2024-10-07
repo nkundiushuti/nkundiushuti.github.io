@@ -32,7 +32,7 @@ There is a eloquent video about how these audio patterns work for whales and bir
   <source type="video/youtube" src="http://www.youtube.com/watch?v=M5OCCuCIMbA" />
 </video>
 
-We publish the pre-print on arXiv.
+We publish the pre-print on [arXiv](https://arxiv.org/abs/2410.03427).
 
 {% include alert text='Marius Miron, Sara Keen, Jen-Yu Liu, Benjamin Hoffman, Masato Hagiwara, Olivier Pietquin, Felix Effenberger, Maddie Cusimano, "Biodenoising: animal vocalization denoising without access to clean data"' %}
 
