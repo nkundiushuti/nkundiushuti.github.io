@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ISMIR 2026 calendar
+BEGIN:VEVENT
+SUMMARY:#open Opening Session
+DTSTART:20260810T100000Z
+DTEND:20260810T101500Z
+DTSTAMP:20260728T135330Z
+UID:1@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/day_1.html
+LOCATION:day_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#pos Oral Session - 1
+DTSTART:20260810T101500Z
+DTEND:20260810T110000Z
+DTSTAMP:20260728T135330Z
+UID:2@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/papers.html?
+ session=1
+LOCATION:papers.html?session=1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#pos Poster Session - 1
+DTSTART:20260810T110000Z
+DTEND:20260810T114500Z
+DTSTAMP:20260728T135330Z
+UID:3@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/papers.html?
+ session=1
+LOCATION:papers.html?session=1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#lbd LBD Session
+DTSTART:20260810T114500Z
+DTEND:20260810T121000Z
+DTSTAMP:20260728T135330Z
+UID:4@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/lbds.html
+LOCATION:lbds.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#industry Industry Session
+DTSTART:20260810T121000Z
+DTEND:20260810T123000Z
+DTSTAMP:20260728T135330Z
+UID:5@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/industry.htm
+ l?session=Platinum
+LOCATION:industry.html?session=Platinum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#mus Music Program
+DTSTART:20260810T123000Z
+DTEND:20260810T125000Z
+DTSTAMP:20260728T135330Z
+UID:6@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/music.html
+LOCATION:music.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#awards Closing & Awards
+DTSTART:20260810T125000Z
+DTEND:20260810T130000Z
+DTSTAMP:20260728T135330Z
+UID:7@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/day_1.html
+LOCATION:day_1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#social No sessions (mock buffer day)
+DTSTART:20260811T050000Z
+DTEND:20260811T051500Z
+DTSTAMP:20260728T135330Z
+UID:8@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/day_2.html
+LOCATION:day_2.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#social No sessions (mock buffer day)
+DTSTART:20260812T050000Z
+DTEND:20260812T051500Z
+DTSTAMP:20260728T135330Z
+UID:9@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/day_3.html
+LOCATION:day_3.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#social No sessions (mock buffer day)
+DTSTART:20260813T050000Z
+DTEND:20260813T051500Z
+DTSTAMP:20260728T135330Z
+UID:10@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/day_4.html
+LOCATION:day_4.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#social No sessions (mock buffer day)
+DTSTART:20260814T050000Z
+DTEND:20260814T051500Z
+DTSTAMP:20260728T135330Z
+UID:11@ismir2026virtual
+DESCRIPTION:Miniconf page: https://ismir2026program.ismir.net/day_5.html
+LOCATION:day_5.html
+END:VEVENT
+END:VCALENDAR
